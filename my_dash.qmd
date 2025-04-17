@@ -1,7 +1,9 @@
 ---
 title: "Final Project: Child Mortality, Gross Domestic Product (GDP) per Capita, and Population Size"
 author: Negli Gallardo
-format: dashboard
+format:
+    dashboard:
+        embed-resources: true
 theme: superhero
 ---
 
